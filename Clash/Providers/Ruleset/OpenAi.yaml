@@ -1,6 +1,8 @@
 payload:
   # 内容：Ai
   # 数量：18条
+  # 出现无法访问ChatGPT，显示本地Ip地址的，请参考: https://github.com/wgetnz/chatgpt-openclash#注意事项
+  # 启用 UDP 转发，或关闭浏览器 HTTP/3
   - DOMAIN-chat.openai.com
   - DOMAIN-KEYWORD,openai
   - DOMAIN-SUFFIX,auth0.com
