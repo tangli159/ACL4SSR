@@ -1,6 +1,7 @@
 payload:
   # 内容：以下国际游戏路由表来自UU加速器
   # 更新：2023-10-21 16:27:56
+  - DOMAIN-KEYWORD,nintendo
   - IP-CIDR,3.80.0.0/12,no-resolve
   - IP-CIDR,3.104.0.0/14,no-resolve
   - IP-CIDR,5.71.66.0/24,no-resolve
